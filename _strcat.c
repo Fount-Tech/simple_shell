@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 /**
  * _strcmp - comparer 2 chaine
  * @s1: Valeur 1

@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 /**
  * _strcpy -9. strcpy
  * @src: variable copie
